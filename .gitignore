@@ -31,6 +31,6 @@ test-results
 
 # other
 .DS_Store
-.idea
+#.idea
 .vscode
 *.iml
